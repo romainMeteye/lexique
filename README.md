@@ -12,10 +12,11 @@ Front-end : Partie visible d'un site ou d'un logiciel. A l'inverse du Back-end.
 Git : Logiciel de gestion informatique créé par notre cher Linus Torvalds.
 GitHub : Plateforme de dévelopement pour héberger et recevoir du code, de l'open source à l'entreprise.
 Html : "HyperText Markup Language" est une langue de programation utilisé pour créer et représenter les sites internet.
+Http : Protocole de Transmission permettant à l'utilisateur d'accèder à des pages Web.
 Intégration : Le fais de connecter les données, les systèmes etc...
-Java :
-Javascript :
-Ligne de commande :
-Php :
-Python :
+Java : Langue de programation par microsoft pour des applications ou des sites web.
+Javascript : Langue de programmation souvent utilisé pour introduires des animations ou des effets sur les pages web ou HTML.
+Ligne de commande : Texte au clavier pour demander a une machine d'effectuer une action.
+Php : "hyperText Preprocessor" est une langue de programation souvent utilisé pour creer des pages web dynamiques via un serveur HTTP.
+Python : Contrairement au serpent, le python est une langue de programmation qui est le plus utiliser lorsqu'il s'agit de calcul.
 Serveur : Dispositif informatique qui offre des services au client (voir définition client)
