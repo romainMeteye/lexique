@@ -9,10 +9,10 @@ Base de données : Ensemble de donnée représentant un système qui peuvent con
 Client : Dans une organisation en Client-Serveur le client est souvent l'ordinateur avec le quel le logiciel client, un navigateur par exemple.
 Css : "Cascading Style Sweets" est un language de programation utiliser pour définir le style d'un site à partir d'un document HTML.
 Front-end : Partie visible d'un site ou d'un logiciel. A l'inverse du Back-end.
-Git :
-GitHub :
-Html :
-Intégration :
+Git : Logiciel de gestion informatique créé par notre cher Linus Torvalds.
+GitHub : Plateforme de dévelopement pour héberger et recevoir du code, de l'open source à l'entreprise.
+Html : "HyperText Markup Language" est une langue de programation utilisé pour créer et représenter les sites internet.
+Intégration : Le fais de connecter les données, les systèmes etc...
 Java :
 Javascript :
 Ligne de commande :
